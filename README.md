@@ -22,3 +22,5 @@ Para apagar somente um dígito, utiliza-se o botão C, e para apagar todos os di
 -----------------------------------------------------------------------------------------------------------
 
 O programa foi desenvolvido para aplicar os conhecimentos sobre UI em Java FX.
+
+-----------------------------------------------------------------------------------------------------------
